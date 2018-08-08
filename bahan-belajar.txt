@@ -1,0 +1,5 @@
+untuk yang ingin membaca dokumentasi resmi dari bootstrap
+  https://getbootstrap.com/docs/3.3/css/
+
+untuk yang suka belajar dari video salah satu rekomendasi
+  https://www.youtube.com/watch?v=0cJDRnAufmY&list=PLCZlgfAG0GXC5wPjJGj1LvFaVK2cbN2GQ
